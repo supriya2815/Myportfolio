@@ -1,0 +1,45 @@
+.custom-navbar {
+  background: linear-gradient(90deg, #007bff, #6610f2);
+  padding: 12px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.custom-navbar .logo {
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff !important;
+}
+
+.custom-navbar .nav-link {
+  color: #fff !important;
+  margin-left: 15px;
+  font-weight: 500;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #ffd700 !important;
+  transform: scale(1.05);
+}
+
+.custom-navbar .nav-link.active {
+  color: #fff !important;
+  border-bottom: 2px solid #ffd700;
+}
+
+.search-bar input {
+  border-radius: 20px;
+  padding: 5px 15px;
+}
+
+.search-btn {
+  border-radius: 20px;
+  font-weight: 500;
+}
+body{
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
