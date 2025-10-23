@@ -245,7 +245,7 @@ export default function Portfolio() {
                 Whether you have a question, a project idea, or just want to say hi, my inbox is always open.
               </p>
               <p><strong>Email:</strong> <br /><a href="mailto:pawarsupriya19787@gmail.com" style={{ color: "#06b6d4" }}>pawarsupriya19787@gmail.com</a></p>
-              <p><strong>Phone:</strong> <br /> +91-9876543210</p>
+              <p><strong>Phone:</strong> <br /> +91-8010450670</p>
             </div>
 
             <form onSubmit={handleSubmit} style={{ display: "flex", flexDirection: "column", gap: "12px", background: "rgba(255,255,255,0.02)", padding: "20px", borderRadius: "12px" }}>
